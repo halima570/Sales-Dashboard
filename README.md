@@ -34,15 +34,17 @@ Ce projet consiste en la création d’un **tableau de bord analytique** pour vi
 - Boutique
 
 <p align="center">
-  <img width="673" height="446" alt="1" src="https://github.com/user-attachments/assets/d23ce75e-7eca-4870-8450-5bd9636eafcb" />
+  <img width="673" height="446" alt="Boutique" src="https://github.com/user-attachments/assets/d23ce75e-7eca-4870-8450-5bd9636eafcb" />
 </p>
 
 - Produit
+  
   <p align="center">
 <img width="690" height="423" alt="Produit" src="https://github.com/user-attachments/assets/8dc81e36-92dd-4321-b93c-46a38c4f9305" />
 </p>
 
 - Vente
+  
   <p align="center">
 <img width="669" height="452" alt="Vente" src="https://github.com/user-attachments/assets/4fa9c0c3-b877-4581-b88e-164f1cd162e6" />
 </p>
