@@ -32,7 +32,11 @@ Ce projet consiste en la création d’un **tableau de bord analytique** pour vi
 ## Dashboard
 
 - Boutique
-<img width="373" height="246" alt="1" src="https://github.com/user-attachments/assets/d23ce75e-7eca-4870-8450-5bd9636eafcb" />
+
+<p align="center">
+  <img width="673" height="446" alt="1" src="https://github.com/user-attachments/assets/d23ce75e-7eca-4870-8450-5bd9636eafcb" />
+</p>
+
 - Produit
 <img width="390" height="223" alt="Produit" src="https://github.com/user-attachments/assets/8dc81e36-92dd-4321-b93c-46a38c4f9305" />
 
