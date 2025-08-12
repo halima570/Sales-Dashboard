@@ -38,9 +38,13 @@ Ce projet consiste en la création d’un **tableau de bord analytique** pour vi
 </p>
 
 - Produit
-<img width="390" height="223" alt="Produit" src="https://github.com/user-attachments/assets/8dc81e36-92dd-4321-b93c-46a38c4f9305" />
+  <p align="center">
+<img width="690" height="423" alt="Produit" src="https://github.com/user-attachments/assets/8dc81e36-92dd-4321-b93c-46a38c4f9305" />
+</p>
 
 - Vente
-<img width="369" height="252" alt="Vente" src="https://github.com/user-attachments/assets/4fa9c0c3-b877-4581-b88e-164f1cd162e6" />
+  <p align="center">
+<img width="669" height="452" alt="Vente" src="https://github.com/user-attachments/assets/4fa9c0c3-b877-4581-b88e-164f1cd162e6" />
+</p>
 
   
